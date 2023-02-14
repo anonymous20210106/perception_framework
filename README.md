@@ -1,8 +1,25 @@
-**An Efficient Hardware-Software Framework Architecture for 2D and 3D Perception of Mobile Cobot**
+***<p style="text-align: center;">PerFAC: An Efficient 2D and 3D Perception Hardware-Software Framework Architecture for Mobile Cobot***
 
+
+```bash
+|---framework
+    |---baxter_moveit_config
+    |---bridge
+    |---detector
+    |---nuc
+    |---relfex-ros-pkg
+    |---ssd
+    |---velodyne
+    |---yolov7
+|---gui
+|---models
+ 	
+
+```
 
 ![](images/fw.png)
 
-**Demonstration**
+***<p style="text-align: center;">Demonstration***
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bUlXZmi7CMU/0.jpg)](https://www.youtube.com/watch?v=bUlXZmi7CMU)
+
+[![](https://img.youtube.com/vi/bUlXZmi7CMU/0.jpg)](https://www.youtube.com/watch?v=bUlXZmi7CMU)
